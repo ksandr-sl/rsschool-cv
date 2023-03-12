@@ -1,19 +1,19 @@
 # Alexander Sultanov
 
 #### *contacts*
-- **Dicsord**: fetish#1734
+- **Dicsord**: @Alexander
 - **Telegram**: @ksandrsl
-- **GitHub**: [ksandr-sl](https://github.com/ksandr-sl)
+- **Email**: syltan21@gmail.com
 
 #
 #### *About me*
 Sociable and cheerful, I love cooking and traveling. I want to become a front-end developer to have a remote job and the opportunity to travel even more!
 
 #
-#### *Skills*
-- HTML & CSS basics
-- JS basics
-- Git basics
+#### *Basic Skills*
+- HTML & CSS
+- JS
+- Git
 - SASS
 - Figma
 - BEM methodology
@@ -21,7 +21,7 @@ Sociable and cheerful, I love cooking and traveling. I want to become a front-en
 #
 #### *Code Examples*
 
-Codewars task - *Consecutive strings*:
+Codewars task *Consecutive strings* solution:
 
 ```js
 // You are given an array(list) strarr of strings and an integer k. 
@@ -32,8 +32,7 @@ Codewars task - *Consecutive strings*:
 // The first that came is "folingtrashy" so 
 // longest_consec(strarr, 2) should return "folingtrashy".
 
-//Solution
-
+```js
 function longestConsec(arr, k) {
   let longest = '';
 
@@ -48,7 +47,7 @@ function longestConsec(arr, k) {
 
 #
 #### *Work Expirience*
-- before 2012. Was engaged in various kinds of work that did not require experience, like many students
+- ... - 2012. Was engaged in various kinds of work that did not require experience, like many students
 - 2012 - 2014. Worked as a bartender and barista in nightclubs, hotel and lounge bars
 - 2014 - 2018. Engaged in construction, plaster casting and furniture production
 - 2018 - 2023. Worked remotely as a support operator for an online store
@@ -58,8 +57,9 @@ function longestConsec(arr, k) {
 - Cooking college
 - Some books about HTML & CSS
 - Learning JS by [learn.javascript.ru](https://learn.javascript.ru/)
+- I'm taking a Front-end course at [RS School](https://rs.school/)
 
 #
 #### *Languages*
-- Russian - native speaker
-- English - B1
+- Russian - Native speaker
+- English - B1 (Intermediate)
