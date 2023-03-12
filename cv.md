@@ -1,15 +1,16 @@
-# Alexander Sultanov
+### Alexander Sultanov
 
+---
 #### *contacts*
 - **Dicsord**: @Alexander
 - **Telegram**: @ksandrsl
 - **Email**: syltan21@gmail.com
 
-#
+---
 #### *About me*
 Sociable and cheerful, I love cooking and traveling. I want to become a front-end developer to have a remote job and the opportunity to travel even more!
 
-#
+---
 #### *Basic Skills*
 - HTML & CSS
 - JS
@@ -18,7 +19,7 @@ Sociable and cheerful, I love cooking and traveling. I want to become a front-en
 - Figma
 - BEM methodology
 
-#
+---
 #### *Code Examples*
 
 Codewars task *Consecutive strings* solution:
@@ -45,21 +46,21 @@ function longestConsec(arr, k) {
 }
 ```
 
-#
+---
 #### *Work Expirience*
 - ... - 2012. Was engaged in various kinds of work that did not require experience, like many students
 - 2012 - 2014. Worked as a bartender and barista in nightclubs, hotel and lounge bars
 - 2014 - 2018. Engaged in construction, plaster casting and furniture production
 - 2018 - 2023. Worked remotely as a support operator for an online store
 
-#
+---
 #### *Education*
 - Cooking college
 - Some books about HTML & CSS
 - Learning JS by [learn.javascript.ru](https://learn.javascript.ru/)
 - I'm taking a Front-end course at [RS School](https://rs.school/)
 
-#
+---
 #### *Languages*
 - Russian - Native speaker
 - English - B1 (Intermediate)
